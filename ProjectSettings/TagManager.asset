@@ -1,0 +1,70 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - Lane1E
+  - Lane2E
+  - Lane3E
+  - Lane
+  - BattleUI
+  - ninja
+  - dragon
+  - Lane1PF
+  - Lane2PF
+  - Lane3PF
+  - Lane1EF
+  - Lane1EB
+  - Lane1Enemy
+  - enemy
+  - CombatLog
+  - draygon
+  - EnemyGrid
+  - LaneTracks
+  - PlayerGrid
+  - Lane1
+  - ninjaStab
+  - ninjaSlash
+  - PocketNinja
+  - WingedBat
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - 
+  - 
+  - Camera
+  - Player
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: GameObject
+    uniqueID: 715040959
+    locked: 0
